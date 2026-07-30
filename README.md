@@ -1,5 +1,8 @@
 # Riddle Riddle — framing & thinking experiment
 
+> Part of a series of ML research experiments carried out by Claude agents — see the [series landing page](https://github.com/davidpreichert/claude-ml-research-runs) for context, retellings, and session transcripts. A blog post introducing the series is forthcoming and will be linked here.
+
+
 A small reproduction/extension of *The Riddle Riddle* (Fascendini et al.),
 testing how **framing** and **thinking** affect **accuracy** on the paper's 30
 matched riddle pairs. Model: **Claude Opus 4.6**.
