@@ -1,6 +1,6 @@
 # Riddle Riddle — framing & thinking experiment
 
-> Part of a series of ML research experiments carried out by Claude agents — see the [series landing page](https://github.com/davidpreichert/claude-ml-research-runs) for context, retellings, and session transcripts. A blog post introducing the series is forthcoming and will be linked here.
+> Part of a series of ML research experiments carried out by Claude agents — see the [series landing page](https://github.com/davidpreichert/claude-ml-research-runs) for retellings and session transcripts, and the [blog post introducing the series](https://davidpreichert.substack.com/p/if-you-havent-recently-used-claude) for context.
 
 
 A small reproduction/extension of *The Riddle Riddle* (Fascendini et al.),
